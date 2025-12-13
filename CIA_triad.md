@@ -5,8 +5,9 @@ Ensures that information is accessible only to authorized individuals. This prev
 ### 2. Integrity-
 Ensures that information remains accurate, complete, and unaltered by unauthorized parties. This protects data from improper modification or deletion. Examples include checksums, hashing, digital signatures, and version control.
 ### 3. Availability-
-Ensures that information and systems are accessible to authorized users when needed. This means preventing disruptions to services and maintaining uptime. Examples include redundancy, backups, disaster recovery plans, and DDoS protection.
-Key Points
+Ensures that information and systems are accessible to authorized users when needed. This means preventing disruptions to services and maintaining uptime. Examples include redundancy, backups, disaster recovery plans, and DDoS protection.    
+
+### Key Points
 
 These three principles work together and must be balanced based on organizational needs
 Different situations may prioritize different elements (e.g., medical records prioritize confidentiality, financial transactions prioritize integrity, emergency services prioritize availability)

@@ -9,7 +9,7 @@ grep "millionth" data.txt
 
 **Concept:**
 ### Grep command: Used to search for a substring within a file
-<ins>Syntax:</ins> grep <text to search> <file>
+<ins>Syntax:</ins> grep \<text to search> \<file>
 #### Returns the full line where the text is found
 
 **Output:**
